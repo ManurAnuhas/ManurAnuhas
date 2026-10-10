@@ -101,7 +101,7 @@ Scalable file storage and management integration.
 <br/>
 
 <a id="experience"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:312E81,100:6366F1&text=EXPERIENCE%20%26%20LEADERSHIP&fontSize=17&fontAlign=5&fontAlignY=52&fontColor=FFFFFF" width="100%" alt="EXPERIENCE & LEADERSHIP"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:312E81,100:6366F1&text=EXPERIENCE%20AND%20LEADERSHIP&fontSize=17&fontAlign=5&fontAlignY=52&fontColor=FFFFFF" width="100%" alt="EXPERIENCE AND LEADERSHIP"/>
 
 | Period | Role |
 |:--|:--|
@@ -125,18 +125,12 @@ Scalable file storage and management integration.
 
 <img height="170" src="https://streak-stats.demolab.com?user=ManurAnuhas&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManurAnuhas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManurAnuhas&bg_color=0D1117&color=818CF8&line=6366F1&point=FFFFFF&area=true&area_color=4F46E5&hide_border=true" alt="activity graph"/>
-
-<img src="https://raw.githubusercontent.com/ManurAnuhas/ManurAnuhas/output/github-snake-dark.svg" alt="contribution snake"/>
-
 </div>
 
 <br/>
 
 <a id="contact"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:312E81,100:6366F1&text=LET'S%20CONNECT&fontSize=17&fontAlign=5&fontAlignY=52&fontColor=FFFFFF" width="100%" alt="LET'S CONNECT"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:312E81,100:6366F1&text=GET%20IN%20TOUCH&fontSize=17&fontAlign=5&fontAlignY=52&fontColor=FFFFFF" width="100%" alt="GET IN TOUCH"/>
 
 <div align="center">
 
@@ -147,8 +141,6 @@ Scalable file storage and management integration.
 <a href="mailto:amanuraanuhas@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="quote"/>
 
 </div>
 
